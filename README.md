@@ -15,7 +15,7 @@ simulations, and projects.
 ### Areas I'm exploring
 - Operating systems and scheduling
 - Distributed systems fundamentals
-- Machine learning basics
+- Machine learning
 - System performance and trade-offs
 
 ### Featured projects
