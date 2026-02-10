@@ -1,18 +1,24 @@
 Hi, I'm Abdul Basit 👋
 
-I have a background in mobile application development and I’m currently
-exploring core computer science concepts using Python, with a focus on
-systems, algorithms, and applied machine learning.
+I’m a full-time mobile application developer with 3 years of experience
+building and shipping production-grade Flutter applications for Android
+and iOS.
 
-This GitHub reflects my learning journey through small experiments,
-simulations, and projects.
+Alongside my professional work, I’m intentionally strengthening my core
+computer science foundations using Python, with a focus on systems,
+algorithms, and applied machine learning.
 
-### Currently working on
+### Professional focus
+- Flutter & Dart (MVVM, Clean Architecture, BLoC/Provider/GetX)
+- Real-time mobile systems, APIs, and performance-aware app design
+- End-to-end app lifecycle: development → deployment → store release
+
+### Currently building (Python / CS foundations)
 - CPU scheduling simulator (FCFS, SJF, Round Robin) in Python
 - Learning operating systems concepts through implementation
 - Strengthening Python for problem-solving and experimentation
 
-### Areas I'm exploring
+### Areas I’m expanding into
 - Operating systems and scheduling
 - Distributed systems fundamentals
 - Machine learning
@@ -20,7 +26,7 @@ simulations, and projects.
 
 ### Featured projects
 - CPU Scheduling Simulator – Python-based simulation of classical OS schedulers
-- (More projects will be added as I continue learning)
+- Selected Flutter projects (production apps and platforms)
 
-I'm documenting my progress openly to stay consistent and improve
-my understanding step by step.
+I document my work openly to stay consistent, deepen my understanding,
+and build strong fundamentals over time.
