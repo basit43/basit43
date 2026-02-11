@@ -61,7 +61,7 @@ I specialize in scalable architecture, real-time systems, Firebase integration, 
   <img src="assets/screenshots/cv1.webp" width="250"/>
   <img src="assets/screenshots/cv2.webp" width="200"/>
   <img src="assets/screenshots/cv3.png" width="200"/>
-  <img src="assets/screenshots/cv4.avif" width="250"/>
+  <img src="assets/screenshots/cv4.avif" width="200"/>
 </p>
 
 
