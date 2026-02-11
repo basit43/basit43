@@ -19,7 +19,7 @@ I specialize in scalable architecture, real-time systems, Firebase integration, 
   <img src="assets/screenshots/4C.png" width="300"/>
   <img src="assets/screenshots/iphone.png" width="200"/>
   <img src="assets/screenshots/googleinteimage3.png" width="200"/>
-  <img src="assets/screenshots/3C.png" width="300"/>
+  <img src="assets/screenshots/3C.png" width="200"/>
 </p>
 
 
