@@ -25,9 +25,6 @@ algorithms, and applied machine learning.
 - System performance and trade-offs
 
 ### Featured projects
-<p align="center">
-  <img src="assets/screenshots/4C.png" width="300"/>
-</p>
 - CPU Scheduling Simulator – Python-based simulation of classical OS schedulers
 - Selected Flutter projects (production apps and platforms)
 
