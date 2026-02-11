@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Basit 👋  
 
-### 🚀 Flutter Developer | 3+ Years Experience | Production Mobile Apps
+### 🚀 Flutter Developer | 3 Years Experience | Production Mobile Apps
 
 I’m a full-time **Flutter developer** with 3 years of experience building and shipping production-grade mobile applications for Android and iOS.
 
