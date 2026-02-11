@@ -101,5 +101,5 @@ I document my work openly to stay consistent, deepen understanding, and build st
 
 # 📫 Let's Connect
 
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your email here)
+- LinkedIn: https://www.linkedin.com/in/abdul-basit-90ab64219/
+- Email: malikabdulbasit43@gmail.com
