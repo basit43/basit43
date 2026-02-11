@@ -99,6 +99,10 @@ I document my work openly to stay consistent, deepen understanding, and build st
 
 ---
 
+# DSA Videos
+
+My youtube: https://www.youtube.com/@tech_stack
+
 # 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/abdul-basit-90ab64219/
