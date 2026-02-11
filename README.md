@@ -1,32 +1,93 @@
-Hi, I'm Abdul Basit 👋
+# Hi, I'm Abdul Basit 👋  
 
-I’m a full-time mobile application developer with 3 years of experience
-building and shipping production-grade Flutter applications for Android
-and iOS.
+### 🚀 Flutter Developer | 3+ Years Experience | Production Mobile Apps
 
-Alongside my professional work, I’m intentionally strengthening my core
-computer science foundations using Python, with a focus on systems,
-algorithms, and applied machine learning.
+I’m a full-time **Flutter developer** with 3+ years of experience building and shipping production-grade mobile applications for Android and iOS.
 
-### Professional focus
-- Flutter & Dart (MVVM, Clean Architecture, BLoC/Provider/GetX)
-- Real-time mobile systems, APIs, and performance-aware app design
-- End-to-end app lifecycle: development → deployment → store release
+I specialize in scalable architecture, real-time systems, Firebase integration, and performance-aware mobile app development.
 
-### Currently building (Python / CS foundations)
-- CPU scheduling simulator (FCFS, SJF, Round Robin) in Python
-- Learning operating systems concepts through implementation
-- Strengthening Python for problem-solving and experimentation
+---
 
-### Areas I’m expanding into
-- Operating systems and scheduling
-- Distributed systems fundamentals
-- Machine learning
-- System performance and trade-offs
+# 📱 Featured Production Apps
 
-### Featured projects
-- CPU Scheduling Simulator – Python-based simulation of classical OS schedulers
-- Selected Flutter projects (production apps and platforms)
+---
 
-I document my work openly to stay consistent, deepen my understanding,
-and build strong fundamentals over time.
+## 🥗 HalalBite — Halal Food Discovery App
+
+
+<p align="center">
+  <img src="assets/screenshots/4C.png" width="300"/>
+</p>
+
+
+**Tech Stack:** Flutter, Firebase, Google Maps API  
+- Real-time halal restaurant discovery  
+- Location-based search & filtering  
+- Firebase backend integration  
+- Production deployment & lifecycle management  
+
+🔗 Website: https://halalbites.co/
+
+---
+
+## 🏢 Attendance Management System (AMS)
+
+
+::contentReference[oaicite:1]{index=1}
+
+
+**Tech Stack:** Flutter, Firebase  
+- Employee attendance & reporting system  
+- Admin dashboards & analytics  
+- Real-time data synchronization  
+- Play Store release & maintenance  
+
+🔗 Website: https://www.whiteboxtech.net/projects/development/ams  
+🔗 Play Store: https://play.google.com/store/apps/details?id=net.whiteboxtech.whitebox_ams  
+
+---
+
+## 📄 CV Lab — Resume Builder App
+
+
+::contentReference[oaicite:2]{index=2}
+
+
+**Tech Stack:** Flutter, PDF Generation  
+- Resume template system  
+- PDF export functionality  
+- Performance-optimized UI  
+- Production Play Store release  
+
+🔗 Play Store: https://play.google.com/store/apps/details?id=com.crewdog.cvlab  
+
+---
+
+# 🛠 Professional Focus
+
+- Flutter & Dart (MVVM, Clean Architecture)
+- BLoC / Provider / GetX state management
+- Firebase (Auth, Firestore, Realtime DB)
+- REST APIs & real-time mobile systems
+- Performance optimization & scalable architecture
+- Full app lifecycle: Development → Deployment → Store Release
+
+---
+
+# 🧠 Strengthening Core Computer Science Foundations
+
+Alongside professional development, I’m actively deepening my core CS knowledge through hands-on implementation:
+
+- CPU Scheduling Simulator (FCFS, SJF, Round Robin) in Python  
+- Operating Systems fundamentals  
+- System performance & trade-offs  
+- Applied machine learning exploration  
+
+I document my work openly to stay consistent, deepen understanding, and build strong long-term engineering fundamentals.
+
+---
+
+# 📫 Let's Connect
+
+- LinkedIn: (Add your LinkedIn link here)
+- Email: (Add your email here)
