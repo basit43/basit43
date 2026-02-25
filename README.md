@@ -16,7 +16,7 @@ I specialize in scalable architecture, real-time systems, Firebase integration, 
 
 
 <p align="center">
-  <img src="assets/screenshots/unnamed.png" width="200"/>
+  <img src="assets/screenshots/unnamed.png" width="250"/>
   <img src="assets/screenshots/unnamed-2.png" width="250"/>
   <img src="assets/screenshots/unnamed-3.png" width="250"/>
   <img src="assets/screenshots/unnamed-4.png" width="250"/>
