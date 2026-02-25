@@ -38,9 +38,8 @@ I specialize in scalable architecture, real-time systems, Firebase integration, 
 ## 🏢 Attendance Management System (AMS)
 
 <p align="center">
-  <img src="assets/screenshots/ams1.webp" width="160"/>
   <img src="assets/screenshots/ams.jpg" width="160"/>
-  <img src="assets/screenshots/ams-2-2.jpg" width="160"/>
+  <img src="assets/screenshots/ams-2.jpg" width="160"/>
   <img src="assets/screenshots/ams-3.jpg" width="160"/>
   <img src="assets/screenshots/ams-4.jpg" width="160"/>
   <img src="assets/screenshots/ams-5.jpg" width="160"/>
