@@ -16,12 +16,12 @@ I specialize in scalable architecture, real-time systems, Firebase integration, 
 
 
 <p align="center">
-  <img src="assets/screenshots/unnamed.png" width="180"/>
-  <img src="assets/screenshots/unnamed-2.png" width="180"/>
-  <img src="assets/screenshots/unnamed-3.png" width="180"/>
-  <img src="assets/screenshots/unnamed-4.png" width="180"/>
-  <img src="assets/screenshots/unnamed-5.png" width="180"/>
-  <img src="assets/screenshots/unnamed-6.png" width="180"/>
+  <img src="assets/screenshots/unnamed.png" width="170"/>
+  <img src="assets/screenshots/unnamed-2.png" width="170"/>
+  <img src="assets/screenshots/unnamed-3.png" width="170"/>
+  <img src="assets/screenshots/unnamed-4.png" width="170"/>
+  <img src="assets/screenshots/unnamed-5.png" width="170"/>
+  <img src="assets/screenshots/unnamed-6.png" width="170"/>
 </p>
 
 
