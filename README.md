@@ -214,6 +214,3 @@ https://linkedin.com/in/abdul-basit-90ab64219
 
 Email  
 malikabdulbasit43@gmail.com
-
-GitHub  
-https://github.com/basit43
