@@ -2,7 +2,7 @@
 
 Software Engineer focused on **Mobile Systems, Backend Infrastructure, and Applied AI**
 
-3+ years of experience building and shipping **production mobile applications used by real users**.
+3 years of experience building and shipping **production mobile applications used by real users**.
 
 I enjoy building systems end-to-end — from mobile interfaces to backend services and AI-powered tooling.
 
