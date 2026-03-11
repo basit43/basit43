@@ -2,9 +2,11 @@
 
 Software Engineer focused on **Mobile Systems, Backend Infrastructure, and Applied AI**
 
-3 years of experience building and shipping **production mobile applications used by real users**.
+3+ years of experience building and shipping **production mobile applications used by real users**.
 
-I enjoy building systems end-to-end — from mobile interfaces to backend services and AI-powered tooling.
+I enjoy building systems end-to-end — from **mobile interfaces and backend services to AI-powered tools and system experiments**.
+
+My current focus is expanding into **systems engineering and applied machine learning**, with an interest in performance, automation, and intelligent developer tooling.
 
 ---
 
@@ -30,7 +32,7 @@ Google Maps API
 Highlights
 
 - Real-time halal restaurant discovery
-- Location based search and filtering
+- Location-based search and filtering
 - Firebase backend infrastructure
 - Production deployment lifecycle
 
@@ -94,7 +96,7 @@ https://play.google.com/store/apps/details?id=com.crewdog.cvlab
 
 ---
 
-# Engineering Projects
+# Engineering & AI Projects
 
 ## Smart Hire AI — Resume Analysis Platform
 
@@ -110,16 +112,13 @@ Features
 
 Architecture
 
-React Dashboard
-↓
-Node.js API
-↓
-MongoDB
-↓
-HuggingFace AI
-
-
-Live Demo
+React Dashboard  
+↓  
+Node.js API  
+↓  
+MongoDB  
+↓  
+HuggingFace AI models
 
 Frontend  
 https://smart-hire-dashboard.vercel.app
@@ -131,7 +130,7 @@ https://smart-hire-api-gutg.onrender.com
 
 ## CPU Scheduling Simulator
 
-A Python simulator implementing classic Operating System scheduling algorithms.
+A Python simulator implementing classic **Operating System scheduling algorithms**.
 
 Implemented Algorithms
 
@@ -145,15 +144,21 @@ Focus
 - Waiting time analysis
 - Performance trade-offs
 
+Planned extensions
+
+- workload simulation
+- scheduling visualization
+- ML-assisted scheduling prediction
+
 ---
 
 # Technical Interests
 
-Mobile Systems  
+Operating Systems  
 Distributed Backend Systems  
-AI-assisted Development Tools  
+Applied Machine Learning  
 Performance Engineering  
-Operating Systems
+AI-assisted Developer Tools
 
 ---
 
@@ -169,9 +174,11 @@ Backend
 Node.js  
 Express
 
-AI
+AI / ML
 
-HuggingFace APIs
+Python  
+HuggingFace  
+Scikit-learn (learning)
 
 Databases
 
@@ -185,15 +192,15 @@ Vercel
 
 ---
 
-# Learning Journey
+# Learning Focus
 
-I believe strong engineers understand both **practical product development and computer science fundamentals**.
+I believe strong engineers understand both **practical product development and core computer science fundamentals**.
 
 Current focus areas
 
 - Operating Systems
 - System Design
-- Applied AI tools
+- Applied Machine Learning
 - Distributed backend systems
 
 ---
